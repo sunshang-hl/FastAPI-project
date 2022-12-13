@@ -34,3 +34,7 @@ fastAPI-cache 是一个缓存 fastAPI 响应和函数结果的工具，后端支
 采用部门架构模式的简单 FastAPI 模板  https://github.com/rednafi/fastapi-nano
 
 FastAPI + MySQL Web项目生成器 ，个人认为较为合理的项目组织结构；基于apscheduler的定时任务。https://github.com/wxy2077/fastapi-mysql-generator
+
+项目列表  https://github.com/Kludex/awesome-fastapi-projects
+
+功能丰富、强大的快速 API 模板。  https://github.com/teamhide/fastapi-boilerplate
