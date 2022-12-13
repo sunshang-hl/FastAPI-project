@@ -17,3 +17,5 @@ FastAPI 教程和部署到云和本地基础架构的方法  https://github.com/
 基于FastAPI和TortoiseORM的快速管理仪表板，带有tabler ui，灵感来自Django管理员  https://github.com/fastapi-admin/fastapi-admin
 
 慕课FastAPI教程资料，整体的介绍 FastAPI，快速上手开发，结合 API 交互文档逐个讲解核心模块的使用。https://github.com/liaogx/fastapi-tutorial
+
+用于 FastAPI 的 CLI 工具。生成新的 FastAPI 项目和样板变得容易。  https://github.com/ycd/manage-fastapi
