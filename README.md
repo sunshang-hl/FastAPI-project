@@ -45,3 +45,7 @@ FastAPI + MySQL Web项目生成器 ，个人认为较为合理的项目组织结
 此代码生成器从 openapi 文件创建 FastAPI 应用。https://github.com/koxudaxi/fastapi-code-generator
 
 快速api邮件系统发送邮件（个人，批量） 附件（个人，批量）  https://github.com/sabuhish/fastapi-mail
+
+vue-element-admin-fastapi   https://github.com/heyfavour/vue-element-admin-fastapi
+
+基于fastapi构建的web开发框架  https://github.com/binkuolo/fastapi
