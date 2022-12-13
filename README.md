@@ -41,3 +41,7 @@ FastAPI + MySQL Web项目生成器 ，个人认为较为合理的项目组织结
 提供 JWT 身份验证支持的 FastAPI 扩展（安全、易于使用和轻量级）  https://github.com/IndominusByte/fastapi-jwt-auth
 
 用于 FastAPI Web 应用程序的 API 版本控制  https://github.com/DeanWay/fastapi-versioning
+
+此代码生成器从 openapi 文件创建 FastAPI 应用。https://github.com/koxudaxi/fastapi-code-generator
+
+快速api邮件系统发送邮件（个人，批量） 附件（个人，批量）  https://github.com/sabuhish/fastapi-mail
