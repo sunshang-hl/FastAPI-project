@@ -26,7 +26,6 @@ FastAPI 教程和部署到云和本地基础架构的方法  https://github.com/
 
 现代 API 与 FastAPI 课程的课程演示和讲义 https://github.com/talkpython/modern-apis-with-fastapi
 
-
 FastAPI Learning Example，对应中文视频学习教程  https://github.com/oinsd/FastAPI-Learning-Example
 
 fastAPI-cache 是一个缓存 fastAPI 响应和函数结果的工具，后端支持 Redis 和 memcached。  https://github.com/long2ice/fastapi-cache
@@ -38,3 +37,7 @@ FastAPI + MySQL Web项目生成器 ，个人认为较为合理的项目组织结
 项目列表  https://github.com/Kludex/awesome-fastapi-projects
 
 功能丰富、强大的快速 API 模板。  https://github.com/teamhide/fastapi-boilerplate
+
+提供 JWT 身份验证支持的 FastAPI 扩展（安全、易于使用和轻量级）  https://github.com/IndominusByte/fastapi-jwt-auth
+
+用于 FastAPI Web 应用程序的 API 版本控制  https://github.com/DeanWay/fastapi-versioning
